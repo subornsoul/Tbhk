@@ -7,6 +7,15 @@
  * @website https://clearvision.github.io
  * @invite 7pNUC9C
  * @BDEditor Clear Vision
+/**
+ * @name tbhk
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
 */
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
@@ -30,7 +39,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://i.ibb.co/7jQ98NZ/EARTBEARTRAEBAET.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -86,3 +95,5 @@
 }
 
 /* Any custom CSS below here */
+
+
