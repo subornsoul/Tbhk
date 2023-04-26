@@ -1,5 +1,5 @@
 /**
- * @name tbhk
+ * @name uhhhaesthetic??
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,36 +12,36 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #C9C9C9;
-  --hover-color: #C9C9C9;
-  --success-color: #949494;
-  --danger-color: #AFAFAF;
+  --main-color: #C5BDAE;
+  --hover-color: #6B6358;
+  --success-color: #9F9382;
+  --danger-color: #686459;
   --url-color: var(--main-color);
-  --background-image: url('https://i.ibb.co/7jQ98NZ/EARTBEARTRAEBAET.jpg');
-  --background-shading: 88%;
+  --background-image: url('https://i.ibb.co/SyN1b43/eatbeartbeartbraetba.png');
+  --background-shading: 54%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 29%;
+  --background-brightness: 100%;
   --background-contrast: 100%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.ibb.co/7jQ98NZ/EARTBEARTRAEBAET.jpg');
+  --user-popout-image: url('https://i.ibb.co/SyN1b43/eatbeartbeartbraetba.png');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 27%;
+  --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.ibb.co/gyrLt3q/EARTBAERTBARETBA.jpg');
+  --user-modal-image: url('https://i.ibb.co/SyN1b43/eatbeartbeartbraetba.png');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -51,18 +51,18 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 3px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
-  --online-color: #FFFFFF;
-  --idle-color: #9B9B9B;
-  --dnd-color: #393939;
-  --streaming-color: #A7A6A9;
-  --offline-color: #000000;
+  --online-color: #CBC1B5;
+  --idle-color: #A59C91;
+  --dnd-color: #938B81;
+  --streaming-color: #3F3B36;
+  --offline-color: #45413C;
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
