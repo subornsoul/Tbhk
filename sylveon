@@ -1,5 +1,5 @@
 /**
- * @name uhhhaesthetic??
+ * @name g
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,41 +12,41 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #C5BDAE;
-  --hover-color: #6B6358;
-  --success-color: #9F9382;
-  --danger-color: #686459;
-  --url-color: var(--main-color);
-  --background-image: url('https://i.ibb.co/SyN1b43/eatbeartbeartbraetba.png');
-  --background-shading: 54%;
+  --main-color: #AF7D92;
+  --hover-color: #9DB8D7;
+  --success-color: #71AEBB;
+  --danger-color: #33556A;
+  --url-color: #84C3CB;
+  --background-image: url('https://i.ibb.co/Zgc9rkH/TRABAERTBEARTBEARTBRAEBT.jpg');
+  --background-shading: 0%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
-  --background-contrast: 100%;
-  --background-saturation: 100%;
+  --background-brightness: 107%;
+  --background-contrast: 101%;
+  --background-saturation: 209%;
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://i.ibb.co/SyN1b43/eatbeartbeartbraetba.png');
+  --user-popout-image: url('https://i.ibb.co/Mpq3hgX/EARTBAETBEATBEARTBAETBAETB.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
+  --user-popout-brightness: 95%;
   --user-popout-contrast: 100%;
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.ibb.co/SyN1b43/eatbeartbeartbraetba.png');
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://i.ibb.co/Mpq3hgX/EARTBAETBEATBEARTBAETBAETB.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
-  --user-modal-brightness: 100%;
+  --user-modal-brightness: 97%;
   --user-modal-contrast: 100%;
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
@@ -58,11 +58,11 @@
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
-  --online-color: #CBC1B5;
-  --idle-color: #A59C91;
-  --dnd-color: #938B81;
-  --streaming-color: #3F3B36;
-  --offline-color: #45413C;
+  --online-color: #43b581;
+  --idle-color: #faa61a;
+  --dnd-color: #982929;
+  --streaming-color: #593695;
+  --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
   --channels-width: 220px;
